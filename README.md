@@ -20,6 +20,6 @@
 
 #### Most used languages on github:    
 
-[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPanais&layout=compact&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPanais&layout=compact&theme=dark)
-
 [<img align="right" src="https://github-readme-stats.vercel.app/api?username=LucasPanais&hide=contribs&show_icons=true&theme=dark">](https://github-readme-stats.vercel.app/api?username=LucasPanais&hide=contribs&show_icons=true&theme=dark)
+
+[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPanais&layout=compact&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPanais&layout=compact&theme=dark)
