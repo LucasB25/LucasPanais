@@ -4,8 +4,7 @@
 
 I'm a french PUG, CSS, JavaScript, NodeJS.
 
-- 🔭 I’m currently working on [Méliodas](https://top.gg/bot/562571094947659783)
-- 🌱 I’m currently learning ExpressJS
+- 🔭 I’m currently working on [Panais](https://top.gg/bot/707627135577358417)
 - 💬 Ask me, talk..etc about anything [here](https://discord.gg/D7pq3m3)
   
 ᅠ  
@@ -16,7 +15,6 @@ I'm a french PUG, CSS, JavaScript, NodeJS.
 <code><img height="25" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/vscode.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.png"></code>
 <code><img height="25" src="https://cdn.worldvectorlogo.com/logos/npm-2.svg"></code>
-<code><img height="25" src="https://s3-us-west-2.amazonaws.com/assets.blog.serverless.com/express_js.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bootstrap/bootstrap.png"></code>  
   
 ᅠ  
