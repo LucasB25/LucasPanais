@@ -1,6 +1,6 @@
 ## Hi i'm Lucas 👋 [![Support Server](https://img.shields.io/discord/738122381062832180.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/D7pq3m3)
 
-[<img align="right" src="https://github-readme-stats.vercel.app/api?username=meliooff&hide=contribs&show_icons=true&theme=dark">](https://github-readme-stats.vercel.app/api?username=meliooff&hide=contribs&show_icons=true&theme=dark)
+[<img align="right" src="https://github-readme-stats.vercel.app/api?username=LucasPanais&hide=contribs&show_icons=true&theme=dark">](https://github-readme-stats.vercel.app/api?username=LucasPanais&hide=contribs&show_icons=true&theme=dark)
 
 I'm a french PUG, CSS, JavaScript, NodeJS.
 
