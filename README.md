@@ -20,4 +20,4 @@ I'm a french PUG, CSS, JavaScript, NodeJS.
 ᅠ  
 #### Most used languages on github :    
 
-[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=meliooff&layout=compact&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=meliooff&layout=compact&theme=dark)
+[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPanais&layout=compact&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPanais&layout=compact&theme=dark)
