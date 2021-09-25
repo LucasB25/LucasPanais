@@ -1,4 +1,4 @@
-## Hi i'm Lucas 👋 [![Support Server](https://img.shields.io/discourse/topics?label=Discord&logo=Discord&logoColor=blue&server=742001124457971765&style=plastic)](https://discord.gg/D7pq3m3)
+## Hi i'm Lucas 👋 [![Support Server](https://img.shields.io/discord/742001124457971765.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/D7pq3m3)
 
 [<img align="right" src="https://github-readme-stats.vercel.app/api?username=LucasPanais&hide=contribs&show_icons=true&theme=dark">](https://github-readme-stats.vercel.app/api?username=LucasPanais&hide=contribs&show_icons=true&theme=dark)
 
