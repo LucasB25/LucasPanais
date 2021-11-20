@@ -21,6 +21,6 @@
 #### Most used languages on github:    
 
 [<img align="right" src="https://github-readme-stats.vercel.app/api?username=LucasB25&hide=contribs&show_icons=true&theme=dark">](https://github-readme-stats.vercel.app/api?username=LucasPanais&hide=contribs&show_icons=true&theme=dark)
-
+<br>
 
 [![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasB25&layout=compact&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPanais&layout=compact&theme=dark)
