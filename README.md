@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm LucasB25</h1>
 <h3 align="center">I'm a french PUH, CSS, JavaScript, NodeJS, developer starting self-taught. Here is some informations about me</h3>
 
-- 🔭 I’m currently working on [Panais](https://top.gg/bot/707627135577358417)
-- 🔭 I’m currently working on [Paesta-Tickets](https://top.gg/bot/912442038765633597)
+- 🔭 I’m currently working on Panais.<br>
+       • Link [Top.gg](https://top.gg/bot/707627135577358417)<br>
+- 🔭 I’m currently working on Paesta-Tickets.<br>
+       • Link [Top.gg](https://top.gg/bot/912442038765633597)<br>
+       • Link [Github](https://github.com/LucasB25/tickets-bot)
 
-- 💬 Ask me, talk..etc about anything [Here](https://discord.gg/D7pq3m3)
-
-- 🤝 My bot list [WebSite](https://consteagle.com)
+- 🤝 My bot list [bot list Web](https://consteagle.com)
+- 🤝 My website [link Web](https://consteagle.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
