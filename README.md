@@ -24,5 +24,4 @@
 #### Most used languages on github:    
 
 <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=LucasB25&show_icons=true&hide_border=true&theme=tokyonight" />
-
-[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasB25&layout=compact&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPanais&layout=compact&theme=dark)
+<img alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasB25&show_icons=true&theme=tokyonight&layout=compact" />
