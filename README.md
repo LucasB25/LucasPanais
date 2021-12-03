@@ -8,7 +8,7 @@
        • Link [Github](https://github.com/LucasB25/tickets-bot)
 
 - 🤝 My bot list [bot list Web](https://consteagle.com)
-- 🤝 My website [link Web](https://consteagle.com)
+- 🤝 My website [link Web](soon)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
