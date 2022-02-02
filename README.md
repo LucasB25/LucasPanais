@@ -40,9 +40,10 @@
 ![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## 🔧 OS :
- ![Windows 7 to 11](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+ ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
  ![Ios](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
  ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+ ![Android](https://img.shields.io/badge/Android-0078D6?style=for-the-badge&logo=android&logoColor=white)
  
 ## 🚩 Projects:
   | Name             | Web                     | Discord                        | Description                                                        |
