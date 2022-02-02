@@ -2,6 +2,7 @@
 
 - 📫 How to reach me: [Discord](https://discord.gg/Mwjk8dVUQJ)
 - 🥖 I live in the country more commonly known as France
+- 💻 I use [Code](https://code.visualstudio.com) IDE
        
 ## Connect with me:
 <p align="left">
