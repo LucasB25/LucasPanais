@@ -2,8 +2,6 @@
 
 - 📫 How to reach me: [Discord](https://discord.gg/Mwjk8dVUQJ)
 - 🥖 I live in the country more commonly known as France
-
-       <h3 align="left">Connect with me:</h3>
        
 ## Connect with me:
 <p align="left">
