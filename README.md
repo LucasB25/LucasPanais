@@ -4,6 +4,8 @@
 - 🥖 I live in the country more commonly known as France
 
        <h3 align="left">Connect with me:</h3>
+       
+## Connect with me:
 <p align="left">
 <a href="https://twitter.com/consteagle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="consteagle" height="30" width="40" /></a>
 <a href="https://instagram.com/lucas.btts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucas.btts" height="30" width="40" /></a>
