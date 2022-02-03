@@ -49,7 +49,7 @@
 ## 🚩 Projects:
   | Name             | Web                     | Discord                        | Description                                                        |
   |------------------|-------------------------|--------------------------------|--------------------------------------------------------------------|
-  | Panais           | https://dsc.gg/panais   | https://discord.gg/Mwjk8dVUQJ  | This a Discord music bot as well as multifunctional configurable.  |
+  | Panais           | https://panaisdev.tk    | https://discord.gg/Mwjk8dVUQJ  | This a Discord music bot as well as multifunctional configurable.  |
   | Consteagle       | https://consteagle.com  | https://discord.gg/Mwjk8dVUQJ  | This a bot list server/website discord                             |
 
 <p align="center"> 
