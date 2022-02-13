@@ -46,6 +46,7 @@
  ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
  ![Android](https://img.shields.io/badge/Android-0078D6?style=for-the-badge&logo=android&logoColor=green)
  
+ 
 ## 🚩 Projects:
   | Name             | Web                     | Discord                        | Description                                                        |
   |------------------|-------------------------|--------------------------------|--------------------------------------------------------------------|
@@ -53,10 +54,12 @@
   | Consteagle       | https://consteagle.com  | https://discord.gg/Mwjk8dVUQJ  | This a bot list server/website discord.                            |
   
   
-  ## 🚩 Computer help:
+  
+## 🚩 Computer help:
   | Name                     | Link                                                | Description                                                        |
   |--------------------------|-----------------------------------------------------|--------------------------------------------------------------------|
   | Windows 11 Optimisation  | https://github.com/LucasB25/Windows-11-optimisation | You want to optimize the performance of your computer?.            |
+
 
 <p align="center"> 
   Visitor count<br>
