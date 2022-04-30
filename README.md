@@ -23,9 +23,12 @@
 
   ### Css:
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Bulma](https://img.shields.io/badge/Bulma-35495E?style=for-the-badge&logo=Bulma&logoColor=4FC08D)
   
   ### Js:
   ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+  ![Express](https://img.shields.io/badge/Express-35495E?style=for-the-badge&logo=Express&logoColor=4FC08D)
+  ![Node.js](https://img.shields.io/badge/Node.js-35495E?style=for-the-badge&logo=Node.js&logoColor=4FC08D)
 
 ## ⚙️ Programming Tools:
 
