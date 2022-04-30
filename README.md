@@ -23,7 +23,7 @@
 
   ### Css:
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![Bulma](https://img.shields.io/badge/Bulma-35495E?style=for-the-badge&logo=Bulma&logoColor=4FC08D)
+  ![Bulma](https://img.shields.io/badge/Bulma-563D7C?style=for-the-badge&logo=Bulma&logoColor=4FC08D)
   
   ### Js:
   ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
