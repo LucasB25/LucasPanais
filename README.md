@@ -18,7 +18,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Ejs](https://img.shields.io/badge/Ejs-%231572B6.svg?style=for-the-badge&logo=ejs&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Pug](https://img.shields.io/badge/Pug-%231572B6.svg?style=for-the-badge&logo=pug&logoColor=brown)
+![Pug](https://img.shields.io/badge/Pug-%231572B6.svg?style=for-the-badge&logo=pug&logoColor=23F7DF1E)
   
 ## 💻 FrameWorks:
 
