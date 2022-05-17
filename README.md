@@ -57,6 +57,7 @@
   |------------------|-------------------------|--------------------------------|--------------------------------------------------------------------|
   | Panais           | https://panaisdev.tk    | https://discord.gg/Mwjk8dVUQJ  | This a Discord music bot as well as multifunctional configurable.  |
   | Consteagle       | https://consteagle.com  | https://discord.gg/Mwjk8dVUQJ  | This a bot list server/website discord.                            |
+  | Personal web     | https://lucab25.tk      | https://discord.gg/Mwjk8dVUQJ  | WebSite personnel.                            |
   
   
   
