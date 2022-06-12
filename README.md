@@ -1,6 +1,6 @@
-       ### Hey, friends my name is Lucas, I’m 18 years old is cool right? I’ve been a certified developer for a few years now.
+       ### Hey, friends my name is Lucas, I’m 19 years old is cool right? I’ve been a certified developer for a few years now.
 
-- 📫 How to reach me: [Discord](https://discord.gg/Mwjk8dVUQJ)
+- 📫 How to reach me: [Discord](https://discord.gg/ATYQ8GsDHR)
 - 🥖 I live in the country more commonly known as France
 - 💻 I use [Code](https://code.visualstudio.com) IDE
        
