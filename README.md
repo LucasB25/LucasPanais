@@ -68,7 +68,7 @@
   |--------------------------|-----------------------------------------------------|-----------------------------------------------------------------|
   | Windows 11 Optimisation  | https://github.com/LucasB25/Windows-11-optimisation | You want to optimize the performance of your computer?.         |
   
-## 🔖 My Trophy
+## 🏆 My Trophy
 &nbsp;
 <p align="center">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasb25" alt="lucasb25" /></a> </p>
