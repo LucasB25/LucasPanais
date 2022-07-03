@@ -3,6 +3,8 @@
 - 📫 How to reach me: [Discord](https://discord.gg/ATYQ8GsDHR)
 - 🥖 I live in the country more commonly known as France
 - 💻 I use [Code](https://code.visualstudio.com) IDE
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasb25&label=Profile%20views&color=0e75b6&style=flat" alt="lucasb25" /> </p>
        
 ## Connect with me:
 <p align="left">
@@ -65,12 +67,11 @@
   | Name                     | Link                                                | Description                                                     |
   |--------------------------|-----------------------------------------------------|-----------------------------------------------------------------|
   | Windows 11 Optimisation  | https://github.com/LucasB25/Windows-11-optimisation | You want to optimize the performance of your computer?.         |
-
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/LucasB25/count.svg" />
-</p>
+  
+## 🔖 My Trophy
+&nbsp;
+<p align="center">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasb25" alt="lucasb25" /></a> </p>
 
 ## 🔖 My Statistics
 &nbsp;
