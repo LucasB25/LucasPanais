@@ -6,40 +6,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasb25&label=Profile%20views&color=0e75b6&style=flat" alt="lucasb25" /> </p>
        
-## Connect with me:
-<p align="left">
-<a href="https://twitter.com/consteagle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="consteagle" height="30" width="40" /></a>
-<a href="https://instagram.com/lucas.btts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucas.btts" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/_misa0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="_misa0" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/D7pq3m3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Mwjk8dVUQJ" height="30" width="40" /></a>
-</p>
+## 📡 Contact me:
+* Discord - **[Discord server](https://discord.gg/Mwjk8dVUQJ)**
+* Youtube - **[_Misa0](https://www.youtube.com/channel/UCOSm3qOwmnG7XaUfxWS0nuA)**
+* Instagram - **[@lucas.btts](https://instagram.com/lucas.btts)**  
 
-## 🌍 Programming languages:
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Ejs](https://img.shields.io/badge/Ejs-%231572B6.svg?style=for-the-badge&logo=ejs&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Pug](https://img.shields.io/badge/Pug-%231572B6.svg?style=for-the-badge&logo=pug&logoColor=brown)
-  
-## 💻 FrameWorks:
-
-  ### Css:
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![Bulma](https://img.shields.io/badge/Bulma-563D7C?style=for-the-badge&logo=Bulma&logoColor=4FC08D)
-  
-  ### Js:
-  ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-  ![Express](https://img.shields.io/badge/Express-35495E?style=for-the-badge&logo=Express&logoColor=4FC08D)
-  ![Node.js](https://img.shields.io/badge/Node.js-35495E?style=for-the-badge&logo=Node.js&logoColor=4FC08D)
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 
 ## ⚙️ Programming Tools:
 
   [<img alt="github" width="50px" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg"/>](https://github.com)
   [<img alt="git" width="50px" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png"/>](https://git-scm.com/)
-  [<img alt="nodeJS" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png"/>](https://nodejs.org/en/)
-  
-  
+  [<img alt="nodeJS" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png"/>](https://nodejs.org)
   
 ## 📦 Databases:
 
