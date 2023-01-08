@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasb25&label=Profile%20views&color=0e75b6&style=flat" alt="lucasb25" /> </p>
        
 ## 📡 Contact me:
-* Discord - **[Discord server](https://discord.gg/Mwjk8dVUQJ)**
+* Discord - **[Discord server](https://discord.gg/ATYQ8GsDHR)**
 * Youtube - **[_Misa0](https://www.youtube.com/channel/UCOSm3qOwmnG7XaUfxWS0nuA)**
 
 # 💻 Tech Stack:
