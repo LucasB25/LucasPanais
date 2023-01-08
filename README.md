@@ -36,14 +36,6 @@
   | Name             | Web                     | Discord                        | Description                                                        |
   |------------------|-------------------------|--------------------------------|--------------------------------------------------------------------|
   | Panais           | https://panaisdev.tk    | https://discord.gg/ATYQ8GsDHR  | This a Discord music bot as well as multifunctional configurable.  |
-  | Consteagle       | https://consteagle.com  | https://discord.gg/Mwjk8dVUQJ  | This a bot list server/website discord.                            |
-  
-  
-  
-## 🚩 Computer help:
-  | Name                     | Link                                                | Description                                                     |
-  |--------------------------|-----------------------------------------------------|-----------------------------------------------------------------|
-  | Windows 11 Optimisation  | https://github.com/LucasB25/Windows-11-optimisation | You want to optimize the performance of your computer?.         |
   
 ## 🏆 My Trophy
 &nbsp;
