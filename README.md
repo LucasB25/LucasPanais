@@ -1,6 +1,6 @@
-       ### Hey, friends my name is Lucas, I’m 19 years old is cool right? I’ve been a certified developer for a few years now.
+       ### Hey, friends my name is Lucas, I’m 20 years old is cool right? I’ve been a certified developer for a few years now.
 
-- 📫 How to reach me: [Discord](https://discord.gg/ATYQ8GsDHR)
+- 📫 How to reach me: [Discord](https://discord.gg/AhUJa2kdAr)
 - 🥖 I live in the country more commonly known as France
 - 💻 I use [Code](https://code.visualstudio.com) IDE
 
@@ -35,7 +35,7 @@
 ## 🚩 Projects:
   | Name             | Web                     | Discord                        | Description                                                        |
   |------------------|-------------------------|--------------------------------|--------------------------------------------------------------------|
-  | Panais           | https://panaisdev.tk    | https://discord.gg/ATYQ8GsDHR  | This a Discord music bot as well as multifunctional configurable.  |
+  | Panais           | https://panaisdev.tk    | https://discord.gg/AhUJa2kdAr  | This a Discord music bot as well as multifunctional configurable.  |
   
 ## 🏆 My Trophy
 &nbsp;
