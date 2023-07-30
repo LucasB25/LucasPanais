@@ -37,11 +37,6 @@
   |------------------|-------------------------|--------------------------------|--------------------------------------------------------------------|
   | Panais           | https://panaisdev.tk    | https://discord.gg/AhUJa2kdAr  | This a Discord music bot as well as multifunctional configurable.  |
   
-## 🏆 My Trophy
-&nbsp;
-<p align="center">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasb25" alt="lucasb25" /></a> </p>
-
 ## 🔖 My Statistics
 &nbsp;
 <p align="center">
