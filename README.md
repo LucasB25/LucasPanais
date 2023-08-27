@@ -49,11 +49,3 @@
 <img src="https://raw.githubusercontent.com/lucasb25/lucasb25/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<br clear="both">
-
-<div align="center">
-  <img src="?theme=dark&spin=true&scan=true&rainbow=true" alt="Widget with the current Spotify song"  />
-</div>
-
-###
