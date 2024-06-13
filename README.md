@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Lucas, a 20-year-old certified developer passionate about coding!
+I'm Lucas, a 21-year-old certified developer passionate about coding!
 
 ## Profile Visits
 ![Profile Visits](https://komarev.com/ghpvc/?username=lucasb25&color=blueviolet)
