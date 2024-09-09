@@ -6,8 +6,13 @@ I'm Lucas, a 21-year-old certified developer passionate about coding! **[Discord
   * Instagram - **[lucasb.btts](https://www.instagram.com/lucas.btts)**
   * Server Discord - **[Panais Community](https://discord.gg/5cyQ378ffG)**
     
-## Profile Visits
+## Profile Visits:
 ![Profile Visits](https://komarev.com/ghpvc/?username=lucasb25&color=blueviolet)
+
+## ☕ Donate:
+
+Support it by donating!
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T0132KK5)
 
 ## GitHub Stats: [![wakatime](https://wakatime.com/badge/user/ab392564-41eb-46e2-b42a-215b59a0bfe4.svg)](https://wakatime.com/@ab392564-41eb-46e2-b42a-215b59a0bfe4)
 <div align="center">
