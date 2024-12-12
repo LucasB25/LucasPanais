@@ -4,7 +4,7 @@ I'm Lucas, a 21-year-old certified developer passionate about coding! **[Discord
 
   * Youtube - **[LucasB25](https://www.youtube.com/channel/UCOSm3qOwmnG7XaUfxWS0nuA)**
   * Instagram - **[lucasb.btts](https://www.instagram.com/lucas.btts)**
-  * Server Discord - **[Panais Community](https://discord.gg/5cyQ378ffG)**
+  * Server Discord - **[Panais Community](https://discord.gg/nvcznzhkTF)**
     
 ## Profile Visits:
 ![Profile Visits](https://komarev.com/ghpvc/?username=lucasb25&color=blueviolet)
